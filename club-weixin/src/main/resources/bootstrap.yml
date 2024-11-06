@@ -13,4 +13,5 @@ spring:
         long-poll-timeout: 30000
       discovery:
         enabled: true
-        server-addr: 47.109.29.180
+        server-addr: 47.109.29.180:8848
+        connect-timeout: 5000
