@@ -1,6 +1,6 @@
 spring:
   application:
-    name: club-weixn-dev
+    name: club-weixin-dev
   profiles:
     active: dev
   cloud:
